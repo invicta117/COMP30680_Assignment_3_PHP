@@ -1,3 +1,9 @@
+# COMP30680 Assignment 3 PHP
+
+This project involves using PHP and XAMP to manipulate data from an MySQL database including error handling if the website cannot connect to the database.
+
+# Assignment requirements
+
 This readme outlines how I satisfies each of the requirements outlines in the assignments
 
 NOTE: For XAMPP SQL to run on my laptop I had to change the localhost to localhost:3307 in each of the php files included to run this on another 
